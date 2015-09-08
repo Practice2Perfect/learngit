@@ -6,3 +6,5 @@ Git tracks changes.
 Creaet a new branch and simple.
 
 Create a new branch dev.
+
+Git bug fix
